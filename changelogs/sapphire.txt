@@ -1,6 +1,0 @@
-Changelog
-=========
-04/07/2026
----------------
-First Official lunaris build for sapphire
-Fix bluetooth bootloop on user builds by updating seinfo to platform context

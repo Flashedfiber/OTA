@@ -1,0 +1,176 @@
+Changelog
+
+19/06/2026
+
+Device Changelog
+
+- Switch to Sakura Kernel by Madara273
+- Updated KernelSU Next to v3.2.0 with SUSFS integrated
+- Added animations to alert slider notifications (Thanks to SuperJammy!)
+- Switched to Pixel AIDL Thermal HAL v3
+  → Shows warning when skin temp reaches 52 °C
+  → Automatically drops FPS to 60 Hz on thermal throttle
+- Removed OOS Camera completely
+- Aperture (LoS Camera) can now record up to 4K60 and 120 FPS (Thanks to Thuryn - Unofficial EvoX Dev!)
+
+Source Changelog
+
+- https://t.me/lunaris_dailyUP/970
+
+=========
+
+06/06/2026
+
+Lunaris AOSP 3.11 Update Pushed!
+
+- New 25 clock styles with weather support
+- Improve app to home animation
+- Add skydrove color customisation for clock style
+- Add option to browse all clocks
+- Add initial split qs option
+- Switch to tricky store implementation
+- Advance monet customisation
+- Add back peek aod
+- Add color customisation support in lc info widget
+- Allow change lc info widget opacity
+- Add haptics in qs widget sliders
+- Add album art color override for lockscreen clock
+- Implement Vertical Brightness slider expanding
+- Add center alignment option for notification icons
+- Replace MSDL haptics with native haptic feedback on tiles
+- Improve bouncer fallback color
+- Notification and some other ui blur integrate
+- Fix battery percentage color issue when statusbar tint on
+- Add Statusbar brightness
+- Fix depth clock unlock delay
+- Add option in idle manager to trigger only when sleep mode on
+- Add recents task corner radius setting
+- Add notification badge counts 
+- Respect adaptive icon pack shapes
+- Improve custom recents animations
+- Switch to adaptive gesture pill window controls for freeform
+- Implement swipe-down-to-lock in Recents overview
+- Swipe up gesture split screen
+- Fix clock scale overflowing layout
+- Sandbox optimization
+- App lock optimization
+- Optimizing wallpaper zoom
+- Dynamic bar optimization
+- Update jemalloc and arm-optimized-routines
+- Many UI related bugfixes
+- Merge lineage changes
+
+
+=========
+
+29/05/2026
+
+Device changelogs will be updated soon : Thanks to SuperJammy & Madara273c for device trees and kernel.
+
+Source changelogs 
+UI & Customisation
+- Add Skydrove color customisation for clock style
+- Add option to browse all clocks
+- Add Status Bar brightness control
+- Update clock sizes and add new clocks
+- Add weather support in select clocks
+- Enable power button Gemini animation
+- Add L3 popup unlock animation
+- Enable Material3 for document UI (file manager)
+
+System
+- Add option in idle manager to trigger only when sleep mode is on
+- Fix performance issues with OneUI app drawer style
+- Replace QuickSpace OOS clock color polling with static split color
+- Merge new Lineage changes
+
+Quick Settings
+- Add initial split QS option
+- Improve QS pull-down animation in split QS
+- Add left/right swipe gestures in split QS
+- Use directional swipe for split QS (WIP)
+- Add haptics in QS widget sliders
+- Disable split notification shade when split QS on in landscape (temp)
+
+Dynamic Bar
+- Update dynamic bar color tokens
+- Fix dynamic bar collapse event
+- Align dynamic bar expanded cards to top center
+- Fix extended media text color in light mode
+
+Bug Fixes
+- Fix app lock notification issue
+- Fix volume slider fill not hiding at zero volume
+- Fix slider widget inner slider corner radius when set rounded
+- Fix always-on haptics mode triggering visual pulse
+- Fix shake gestures ringer mode not working
+- Replace white flashbang during screen wakeup in light mode with proper scrim
+
+=========
+
+13/05/2026
+
+Source changelogs
+- https://t.me/lunaris_dailyUP/868
+
+=========
+
+08/05/2026
+
+Device changelogs : Thanks to SuperJammy for his device trees and kernel.
+- Included AOSP Dialer and Messages app
+- Optimized compiler flags for Snapdragon 888 (Lahaina) for better performance
+- Upgraded sensors to use the newer AIDL interface
+- Fixed low microphone volume during VoIP/internet calls
+- Fixed a SELinux policy issue causing Wi-Fi crashes
+- Fixed CPU frequency reporting in PowerTools
+
+Source changelogs : 
+- https://t.me/lunaris_hub/64357
+
+=========
+
+13/04/2026
+
+Device changelogs : Thanks to SuperJammy for his device trees and kernel.
+- Removed useless cpu freq in powertools .
+- Hey google fixed .
+- Switch to sony dolby and removed some sound profiles which oplus doens't use .
+- Alertslider settings moved to keyhandler(settings > singularity > buttons > additional buttons) along with added a few customisation by me .
+- Strong key default ( may vary)
+- Switch to AIDL sensor Hal.
+- Fixed stutters when BLUR enabled.
+
+Source changelogs :
+- Same as previous build.
+
+=========
+
+09/04/2026
+
+- Allow choose custom color/gradient for clock chip
+- Media chip popup follow qs seekbar style
+- Vol. percentage in redesigned style
+- Add basic sleep mode
+- Allow switch to legacy statusbar icon order
+- Implement proper UI for per-app spoofing
+- Add battery indicator, glow effect, music indicator in notch ring
+- Allow changes launcher hotseat QSB style
+- Introduce appdrawer app & searchbar styles
+- Add option to clear home screen in settings
+- Add idle manager (like greenify)
+- Allow set custom color in app drawer bg
+- Add method to block PairIP license check activity
+- Add torch toggle for double tap power gesture
+- Implement new dynamic VoLTE/VoWiFi and VoNR status bar icons
+- Allow disable flash SMS messages
+- Add classic a11 like QS panel style
+- Add 24 new clock style and many improvements
+- Lockscreen widget improvements
+- Add lockscreen now playing popup dialog
+- Enable bubble notification app
+- Allow disable qs media player
+- Introduce navbar pill auto-hide (for launcher3 only)
+- Improve app scrolling
+- Improve lmo freeform app scrolling
+- Many UI related bugfixes
