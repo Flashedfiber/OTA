@@ -4,14 +4,14 @@
       "maintainer": "flashedfiber",
       "oem": "oneplus",
       "device": "lemonadep",
-      "filename": "Lunaris-AOSP-lemonadep-UNOFFICIAL-3.12-GMS-2026070609.zip",
-      "download": "https://files.dataheaven.space/s/bPw5W4BGtLgBSHc/download",
-      "timestamp": 1783333874,
-      "md5": "324be480fd2f5681882f8f4c05ebeb39",
-      "sha256": "8698e3654372a46ef4e5397c99e0c37b52cdca832aadcdc9c264cea5feac59c4",
-      "size": 2903197680,
+      "filename": "Lunaris-AOSP-lemonadep-UNOFFICIAL-3.12-GMS-2026070917.zip",
+      "download": "https://files.dataheaven.space/s/XJ8W2pxgB9YNN5d/download",
+      "timestamp": 1783617552,
+      "md5": "0bb25f55648de6d86df9ef6a281d86be",
+      "sha256": "dc47e5c325a803aa15294ebb36eaefb050cc854d336a96323f81bdebfb5b4ef1",
+      "size": 2943876419,
       "version": "3.12",
-      "note": "Isuue with snapchat/instagram video recording has been fixed"
+      "note": "⚠️ Issue with Discord's camera was related to Los Camera. It's replaced for time being with Graphene Cam until I find a permanent fix"
     }
   ]
 }
