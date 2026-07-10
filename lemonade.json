@@ -11,7 +11,7 @@
       "sha256": "23f0721523fd0c5d9c3c6632beb2a12d2fe03d484d8478b94a4a0d8e2d2c6720",
       "size": 2940439146,
       "version": "3.12",
-      "note": "⚠️ 90hz option has been added to manual refresh rate settings (not tested). Issue with Discord's camera was related to Los Camera. It's replaced for time being with Graphene Cam until I find a permanent fix."
+      "note": "⚠️ 9Issue with Discord's camera was related to Los Camera. It's replaced for time being with Graphene Cam until I find a permanent fix."
     }
   ]
 }

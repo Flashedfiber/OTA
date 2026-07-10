@@ -5,7 +5,6 @@ Changelog
 Device Changelog
 
 - Replaced Aperture with Graphene Camera.(for time being)
-- Added 90hz option in refresh rate display settings (not tested).
 
 =========
 
