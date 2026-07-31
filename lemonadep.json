@@ -4,14 +4,15 @@
       "maintainer": "flashedfiber",
       "oem": "oneplus",
       "device": "lemonadep",
-      "filename": "Lunaris-AOSP-lemonadep-UNOFFICIAL-3.12-GMS-2026070917.zip",
-      "download": "https://pixeldrain.com/api/filesystem/eVt6qsjC/OOS-cam%20builds/lemonadep/Lunaris-AOSP-lemonadep-UNOFFICIAL-3.12-GMS-2026070917.zip",
-      "timestamp": 1783617552,
-      "md5": "0bb25f55648de6d86df9ef6a281d86be",
-      "sha256": "dc47e5c325a803aa15294ebb36eaefb050cc854d336a96323f81bdebfb5b4ef1",
-      "size": 2943876419,
-      "version": "3.12",
-      "note": "⚠️ Issue with Discord's camera was related to Los Camera. It's replaced for time being with Graphene Cam until I find a permanent fix"
+      "filename": "Lunaris-AOSP-lemonadep-UNOFFICIAL-3.12-GMS-2026073113.zip",
+      "download": "https://pixeldrain.com/api/file/fDcb7qCW",
+      "downloadlist": "https://pixeldrain.com/l/wYsgcy3p",
+      "timestamp": 1785507387,
+      "md5": "986c190840a4f846c02a8c37eab8d948",
+      "sha256": "eb5e26449f3ee21247f557972f0d5ffc9856a21b8d377acdd45a5ae03f1eaac5",
+      "size": 2966502999,
+      "version": "14.0-Official",
+      "note": "Automated Lunaris Build"
     }
   ]
 }
