@@ -1,5 +1,40 @@
 Changelog
 
+01/08/2026
+
+Device Changelog
+Like always, Im grateful To Superjammy (Prathap) for trees and immense contribution.
+
+→ Powertools: Integrated KProfiles, removed legacy powerhint dependencies
+  Cleans up old performance-profile code and hands control over to the newer KProfiles system
+
+→ Powertools: Offloaded sysfs I/O and added TCP congestion control support
+  Moves slow sysfs reads/writes off the main thread and adds the ability to pick better TCP congestion algorithms
+
+→ Network Bands: Fixed UI bugs and improved state sync
+  Fixes buggy taps and out-of-sync states in the network band selector screen
+
+→ Added app-wide dynamic theming and UI polish
+  Device Settings app now follows system dynamic color and looks more consistent and readable
+
+→ Improved carrier detection and band preset handling
+  Makes carrier and band auto-detection work correctly across different SIMs/carriers instead of being hardcoded
+
+→ Major improvements to multi-SIM, RAT, and 5G NR mode handling
+  Overall more reliable dual-SIM switching, network type selection, and 5G NR mode behavior
+
+→ Reworked the alert slider popup with animated transitions, ambient glow, background blur, and dynamic Monet theming
+  Gives the alert slider popup smooth entrance/exit animations and a fully theme-matched look
+
+→ Fixed various visual glitches and color/contrast issues in the alert slider popup
+  Cleans up leftover visual artifacts and improves text/icon legibility against dynamic colors
+
+Source Changelog
+
+https://t.me/flashaholicsop9/10727
+
+=========
+
 09/06/2026
 
 Device Changelog

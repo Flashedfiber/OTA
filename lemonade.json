@@ -4,15 +4,15 @@
       "maintainer": "flashedfiber",
       "oem": "oneplus",
       "device": "lemonade",
-      "filename": "Lunaris-AOSP-lemonade-UNOFFICIAL-3.12-GMS-2026073114.zip",
-      "download": "https://pixeldrain.com/api/file/G4icrS7b",
-      "downloadlist": "https://pixeldrain.com/l/2EusQhFa",
-      "timestamp": 1785511716,
-      "md5": "ab2ee6b36ee493442fcc85520634a62e",
-      "sha256": "03bcd4f9f9806fc5efa26de1b338285c162deb9695f7aae9d38445e11adde578",
-      "size": 2963333265,
+      "filename": "Lunaris-AOSP-lemonade-UNOFFICIAL-3.12-GMS-2026080220.zip",
+      "download": "https://pixeldrain.com/api/file/YvYDXNpA",
+      "downloadlist": "https://pixeldrain.com/l/Di2WDsCq",
+      "timestamp": 1785704634,
+      "md5": "f45b395fad553fe6e788e5f53f465f84",
+      "sha256": "8ab1f0ecf0a8f86dfbbf36f7a9e2ec4256f59821823edb48709bf6ee264a6083",
+      "size": 2963366246,
       "version": "3.12-EOL",
-      "note": "Automated Lunaris Build"
+      "note": "Landscape fingerprint sensor is still fucked up. Will be fixed soon."
     }
   ]
 }
